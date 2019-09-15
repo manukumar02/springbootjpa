@@ -1,0 +1,1 @@
+insert into alien values (1001, 'Manu');
